@@ -1,0 +1,23 @@
+{
+  "name": "com.shamsdev.davinci",
+  "version": "1.0.0",
+  "displayName": "Davinci",
+  "description": "A powerful, easy-to-use image downloading and caching library for Unity in Run-Time!",
+  "unity": "2022.3",
+  "unityRelease": "15f1",
+  "documentationUrl": "https://github.com/shamsdev/davinci?tab=readme-ov-file",
+  "changelogUrl": "",
+  "licensesUrl": "https://github.com/shamsdev/davinci?tab=MIT-1-ov-file",
+  "dependencies": {
+  },
+  "author": {
+    "name": "ShamsDEV",
+    "email": "contact@shamsdev.com"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "https://github.com/markelPB/davinci.git"
+  }
+}

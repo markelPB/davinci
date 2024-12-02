@@ -108,6 +108,13 @@ You can see lots of examples in Assets/Examples
 
 Please see the Wiki page for more information and examples
 
+*** REPOSITORY FORK FEATURE: UPM git addition
+
+In Unity Package Manager, "Add package from git URL..." and paste
+```
+https://github.com/markelPB/davinci.git?path=Davinci/Assets/Davinci/Scripts
+```
+
 Development
 ----
 Want to contribute? Great! 
